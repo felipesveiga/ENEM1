@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ENEM Data Analysis
 
 The goal of this project is to analyze the ENEM 2019 edition microdata.
@@ -17,3 +18,7 @@ I've conceived five tasks to be carried out:
 5) Display the participants average performance accordingly to their economic class.
 
 Note: I couldn't include the microdata csv file in this repository since it is too heavy to be added on Git. Nonetheless, you can encounter such document clicking <a href = 'https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem'> here </a>.
+=======
+# ENEM1
+A Data Analysis project over ENEM 2019 edition microdata.
+>>>>>>> d843d5fd91a2d946d4d8a5c7a906329180941aa8
