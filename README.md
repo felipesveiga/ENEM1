@@ -16,4 +16,4 @@ I've conceived five tasks to be carried out:
 
 5) Display the participants average performance accordingly to their economic class.
 
-Note: I couldn't include in this repository the microdata and also the internal database created since they are too heavy to be added on Git. Nonetheless, you can encounter the document used clicking <a href = 'https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem'> here </a>.
+Note: I couldn't include in this repository the microdata and also the internal database created since they are too heavy to be added on Git. Nonetheless, you can encounter the csv document used in the project clicking <a href = 'https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem'>here</a>.
